@@ -30,7 +30,7 @@ Docker "For Runnuing the docker image"
 
 ```bash
 # Clone the repository
-git clone https://github.com/chandu8817/AddWalletTask.git
+git clone https://github.com/Chandu8817/Test-AddWallet-Task.git
 
 # Navigate to the project directory
 cd AddWalletTask
